@@ -1,0 +1,12 @@
+{
+    "students":[
+        {
+            "id": "1",
+            "name": "Francis Chege",
+            "email": "Francis@gmail.com",
+            "phone": "07912345678",
+            "course": "Software Development",
+            "class": "Software Class"
+        }
+    ]
+}
